@@ -1,0 +1,12 @@
+#include <stidio.h>
+void main()
+{
+    int a,int b, sum;
+    printf("enter a value")
+    scanf("%d",&a);
+    printf("enter b value")
+    scanf("%d",&b)
+    sum = a+b;
+    printf("the sum of %d and %d is %d is %d\n",a,b,sum);
+    getch()
+}
